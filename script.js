@@ -1,3 +1,10 @@
+ /**
+  * Original Code Author: Ujjan
+  * Website: https://ujjan.com
+  * Purpose:  This code is publically available on author's github, it lets you create a clean and responsive portfolio
+  * Modified By: Abdul Rehman Ujjan
+*/
+
 const skills = ["Flyer Designing", "Business Card Designing", "Instagram Post Designing", "Menu Designing", "Canva Designing", "Logo Designing", "FB Post Design", "Video Editing", "Landing Page Design", "Brochure Designing", "Poster Designing", "Banner Designing"]
 
 const Web_Design = [`<img src="files/data/WD/01.jpg">`, `<img src="files/data/WD/02.jpg">`, `<img src="files/data/WD/03.jpg">`, `<img src="files/data/WD/04.jpg">`]
