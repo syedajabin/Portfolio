@@ -5,7 +5,7 @@
   * Modified By: Abdul Rehman Ujjan
 */
 
-const skills = ["Flyer Designing", "Business Card Designing", "Instagram Post Designing", "Menu Designing", "Canva Designing", "Logo Designing", "FB Post Design", "Video Editing", "Landing Page Design", "Brochure Designing", "Poster Designing", "Banner Designing"]
+const skills = ["Flyer Designing", "Business Card Designing", "Instagram Post Designing", "Menu Designing", "Canva Designing", "Social Media Post Design", "T-shirt Designing", "Banner Designing", "Video Editing", "Landing Page Design", "Logo Designing", "Pattern Design"]
 
 const Web_Design = [`<img src="files/data/WD/01.jpg">`, `<img src="files/data/WD/02.jpg">`, `<img src="files/data/WD/03.jpg">`, `<img src="files/data/WD/04.jpg">`]
 
